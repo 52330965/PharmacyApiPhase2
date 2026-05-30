@@ -1,0 +1,6 @@
+@PharmacyProjectPhase2_HostAddress = http://localhost:5033
+
+GET {{PharmacyProjectPhase2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
